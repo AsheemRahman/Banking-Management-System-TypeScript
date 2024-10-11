@@ -3,7 +3,6 @@ import { CurrentAccount } from './models/CurrentAccount';
 import { SavingsAccount } from './models/SavingAccount';
 import { BankService } from './services/BankService';
 
-
 const bankService = new BankService();
 
 
